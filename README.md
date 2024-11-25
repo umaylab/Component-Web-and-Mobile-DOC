@@ -1,13 +1,13 @@
 # Component-Web-and-Mobile-DOC
 This is a document of list component for web and mobile :
 
-| COMPONENTS | FORM & TABLES | FORM LAYOUT | Description |
+| COMPONENTS | FORM & TABLES | FORM LAYOUT | Technologies |
 |------------|---------------|------------|-------------|
-| Cards | Basic Input | [readme-ai][readme-ai] | Readme-ai project |
-| Accordion | Checkboxes | [pyflink-poc][pyflink] | Pyflink project |
-| Alerts | Radiobutton | [readme-ai-streamlit][streamlit] | Streamlit web app |
-| Badges | Switches |
-| Button | File Input (Choose File) |
+| Cards | Basic Input | [readme-ai][readme-ai] | Awwward Website |
+| Accordion | Checkboxes | [pyflink-poc][pyflink] | Web 3D Model |
+| Alerts | Radiobutton | [readme-ai-streamlit][streamlit] | AR-Web |
+| Badges | Switches | | Canvas Web |
+| Button | File Input (Choose File) | | SVG Animation |
 | Floating button | Input Groups |
 | Carousel | Custom Options |
 | Collapse | Editors |
