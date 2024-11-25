@@ -8,7 +8,7 @@ This is a document of list component for web and mobile :
 | Alerts | Radiobutton | [readme-ai-streamlit][streamlit] | AR-Web |
 | Badges | Switches | | Canvas Web |
 | Button | File Input (Choose File) | | SVG Animation |
-| Floating button | Input Groups |
+| Floating button | Input Groups | | Electron |
 | Carousel | Custom Options |
 | Collapse | Editors |
 | Dropdowns | file Upload |
