@@ -6,7 +6,7 @@ This is a document of list component for web and mobile :
 | Cards | Basic Input | Builder Component | Awwward Website |
 | Accordion | Checkboxes | Rooter | Web 3D Model |
 | Alerts | Radiobutton | Staging data (pinia) | AR-Web |
-| Badges | Switches | API | Canvas Web |
+| Badges | Switches | Fetch Data API | Canvas Web |
 | Button | File Input (Choose File) | | SVG Animation |
 | Floating button | Input Groups | | Electron |
 | Carousel | Custom Options |
