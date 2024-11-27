@@ -1,12 +1,12 @@
 # Component-Web-and-Mobile-DOC
 This is a document of list component for web and mobile :
 
-| COMPONENTS | FORM & TABLES | FORM LAYOUT | Technologies |
+| COMPONENTS | FORM & TABLES | Tech web | Technologies |
 |------------|---------------|------------|-------------|
-| Cards | Basic Input | [readme-ai][readme-ai] | Awwward Website |
-| Accordion | Checkboxes | [pyflink-poc][pyflink] | Web 3D Model |
-| Alerts | Radiobutton | [readme-ai-streamlit][streamlit] | AR-Web |
-| Badges | Switches | | Canvas Web |
+| Cards | Basic Input | Builder Component | Awwward Website |
+| Accordion | Checkboxes | Rooter | Web 3D Model |
+| Alerts | Radiobutton | Staging data (pinia) | AR-Web |
+| Badges | Switches | API | Canvas Web |
 | Button | File Input (Choose File) | | SVG Animation |
 | Floating button | Input Groups | | Electron |
 | Carousel | Custom Options |
